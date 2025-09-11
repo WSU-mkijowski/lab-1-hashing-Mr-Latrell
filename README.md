@@ -1,16 +1,20 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SPs4PNWX)
 # Lab 1 : CEG 3400 Intro to Cyber Security
 
-## Name:
+## Name: Keonje Paige
 
 ### Task 1: Hashing
 
 **Reminder Deliverable:** Is your `salted-data.csv` in this repository?
 
+Yes
+
 Answer the following in this file:
 
 * How many unique users are in the data?
+32
 * How many salts did you create?
+64
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
   `salted-data.csv`)
@@ -30,7 +34,7 @@ learned/struggled with for task 1 here
 
 **Reminder Deliverable:** Is your "mining" code in this repository (`mining/`)?
 **Reminder Deliverable:** Is your nonce + word combos in `coins.txt`?
-
+Yes
 Answer the following:
 
 * Paste your ***nonce+word(s) and hash(s)*** below ( either 3x `000` hashes or 1x `0000`
